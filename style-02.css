@@ -1,0 +1,18 @@
+.one{
+    background-color: black;
+}
+.twist{
+    color: red;
+    background: white;
+    border-radius: 4px;
+}
+.two{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 5px solid red;
+    border-radius: 5px;
+    margin: auto ;
+    padding: 20px;
+    width: 50%
+    
+}
