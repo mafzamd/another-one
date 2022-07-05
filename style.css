@@ -18,3 +18,9 @@ h1 {
     border-radius: 5px;
     padding: 10px 10px;
 }
+.yes{
+    background-color: slategray;
+    color: white;
+    padding: 20%;
+    border-radius: 5px;
+}
